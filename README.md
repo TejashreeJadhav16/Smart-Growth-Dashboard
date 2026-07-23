@@ -29,7 +29,7 @@ Clone the repository and navigate to the backend folder:
 cd backend
 npm install
 npm run develop
-
+---
 ###2. Frontend Setup (Nuxt)
 cd frontend
 npm install
