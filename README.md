@@ -3,7 +3,7 @@
 A personalized self-improvement tracking application that allows users to monitor their personal evolution through real-time metrics and dynamic data visualization. Built using a modern decoupled architecture, it offers secure, user-specific views for goals, habits, and skills.
 
 ---
-
+[![Architecture diagram of tejashreejadhav16/smart-growth-dashboard](https://gitdiagram.com/tejashreejadhav16/smart-growth-dashboard/diagram.png)](https://gitdiagram.com/tejashreejadhav16/smart-growth-dashboard?utm_source=readme&utm_medium=picture)
 #  Project Demo Video
 
 [![Watch Demo](https://img.shields.io/badge/Demo_Video-Play_on_Google_Drive-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/12II_zNr1D66WXMlKm6xNTZgcd5r26n0B/view?usp=sharing)
